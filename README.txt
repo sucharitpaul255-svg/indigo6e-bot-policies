@@ -3,7 +3,7 @@ INDIGO 6E RBLX — READY-TO-UPLOAD POLICY WEBSITE
 Personalized details included:
 - GitHub account: https://github.com/sucharitpaul255-svg
 - Operator/community: Indigo 6E RBLX
-- Contact email: palsuchar@gmail.com
+- Contact email: palsucharit@gmail.com
 - Bot purpose: Discord community flight scheduling and operations
 - Hosting/database described: Railway + SQLite
 - Intended flight-record cleanup: about 4 hours after scheduled departure
